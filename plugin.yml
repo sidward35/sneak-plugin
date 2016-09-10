@@ -1,0 +1,7 @@
+name: SneakPlugin
+main: me.sidward35.SneakPlugin
+version: 1.0
+commands:
+   sneak:
+      description: Sneak without losing speed.
+      usage: /<command>

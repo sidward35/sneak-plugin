@@ -1,0 +1,1 @@
+This repo contains the files used for the Sneak plugin for Minecraft Bukkit servers.
